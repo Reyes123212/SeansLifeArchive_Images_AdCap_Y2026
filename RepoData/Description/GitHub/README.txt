@@ -1,1 +1,1 @@
-📚️ A repository for showcasing my knowledge of the QuakeC programming language, and continuing to learn the language. 
+💰️2️⃣️0️⃣️2️⃣️6️⃣️🎮️🖼️ The module for my life story project that contains my AdVenture Capitalist (AdCap) images from the year 2026. 
